@@ -6,13 +6,8 @@ Code and data for the paper:
 > *to be submitted for review in IEEE ICSIT 2026.*
 
 ---
-@article{tabular_scaling,
-  title   = {Predicting Tabular Scaling Exponents via Dataset 
-             Geometry and Statistical Descriptors},
-  author  = {Zaman, Md M. and Zaman, A. and Vinayak, Neha},
-  journal = {To be submitted to IEEE ICSIT},
-  year    = {2026}
-}
+Authors
+NameRoleAffiliationEmailMd M. ZamanFirst AuthorM.Tech, BITS Pilani2025ab05168@wilp.bits-pilani.ac.inA. ZamanCo-AuthorM.Tech, BITS Pilani2025ab05175@wilp.bits-pilani.ac.inDr. Neha VinayakSupervisorAsst. Professor, CSIS, BITS Pilanineha.vinayak@pilani.bits-pilani.ac.in
 
 ## Overview
 
