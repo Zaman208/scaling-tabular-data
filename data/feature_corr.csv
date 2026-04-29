@@ -1,0 +1,16 @@
+feature,rho,p,sig
+linear_probe_difficulty,-0.4425,0.0,***
+n_classes,0.4004,0.0,***
+class_entropy,0.3505,2e-05,***
+n_features,0.2757,0.00093,***
+label_noise,-0.2746,0.00098,***
+fisher_ratio,0.2665,0.0014,**
+density_variation,-0.2003,0.01725,*
+margin,0.1609,0.05667,ns
+class_imbalance,-0.1427,0.09135,ns
+n_samples,0.1245,0.14138,ns
+cluster_separation,0.112,0.1859,ns
+intrinsic_dim,-0.0893,0.29215,ns
+anisotropy,-0.0553,0.51479,ns
+cluster_structure,-0.0386,0.64932,ns
+lid,0.0087,0.91834,ns

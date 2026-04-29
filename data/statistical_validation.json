@@ -1,0 +1,18 @@
+{
+  "n_datasets": 141,
+  "lodo_rf_r2": 0.6122934632704807,
+  "lodo_rf_spearman": 0.7986025947046073,
+  "lodo_xgb_r2": 0.6867926492991964,
+  "lodo_xgb_spearman": 0.8107464197439008,
+  "lodo_ridge_r2": 0.5192251044928794,
+  "lodo_ridge_spearman": 0.7660649355124222,
+  "permutation_p": 0.0,
+  "bootstrap_spearman_obs": 0.7986025947046073,
+  "bootstrap_spearman_ci_lo": 0.7137504441744327,
+  "bootstrap_spearman_ci_hi": 0.855976285212797,
+  "wilcoxon_p_cluster": 0.00165661904176225,
+  "stability_mean_rho": 0.7646299727043073,
+  "stability_std_rho": 0.0293105044809519,
+  "stability_ci_lo": 0.7201812229478036,
+  "stability_ci_hi": 0.814091684065597
+}

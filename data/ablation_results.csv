@@ -1,0 +1,12 @@
+feature_set,r2_cv,spearman_cv
+No margin,0.6057,0.7492
+No cluster_separation,0.6053,0.749
+No fisher_ratio,0.6039,0.7419
+All features,0.596,0.7384
+No early_loss,0.5912,0.739
+No cluster_structure,0.5906,0.7387
+No early_loss & no stats,0.5313,0.6992
+Geometry only,0.451,0.656
+Stats only,0.4367,0.6304
+Cluster only,0.1181,0.3804
+Complexity only,0.0148,0.2314
