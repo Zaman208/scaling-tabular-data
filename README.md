@@ -10,8 +10,8 @@ Code and data for the paper:
 
 | Name | Role | Affiliation | Email |
 |---|---|---|---|
-| Md M. Zaman | First Author | M.Tech, BITS Pilani | 2025ab05168@wilp.bits-pilani.ac.in |
-| A. Zaman | Co-Author | M.Tech, BITS Pilani | 2025ab05175@wilp.bits-pilani.ac.in |
+| Md M. Zaman | First Author | M.Tech, BITS Pilani & W.R. Grace | 2025ab05168@wilp.bits-pilani.ac.in |
+| A. Zaman | Co-Author | M.Tech, BITS Pilani & Predlabs | 2025ab05175@wilp.bits-pilani.ac.in |
 | Dr. Neha Vinayak | Supervisor | Asst. Professor, CSIS, BITS Pilani | neha.vinayak@pilani.bits-pilani.ac.in |
 
 
