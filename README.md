@@ -6,6 +6,19 @@ Code and data for the paper:
 > *to be submitted for review in IEEE ICSIT 2026.*
 
 ---
+\author{
+  \IEEEauthorblockN{Md M. Zaman}
+  \IEEEauthorblockA{\textit{M.Tech, BITS Pilani} \\
+  2025ab05168@wilp.bits-pilani.ac.in}
+  \and
+  \IEEEauthorblockN{A. Zaman}
+  \IEEEauthorblockA{\textit{M.Tech, BITS Pilani} \\
+  2025ab05175@wilp.bits-pilani.ac.in}
+  \and
+  \IEEEauthorblockN{Dr. Neha Vinayak}
+  \IEEEauthorblockA{\textit{Asst. Professor, CSIS, BITS Pilani} \\
+  neha.vinayak@pilani.bits-pilani.ac.in}
+}
 
 ## Overview
 
@@ -170,17 +183,7 @@ Dataset IDs are listed in `01_generate_data.py` (DATASETS dict, line 78).
 
 ---
 
-## Citation
 
-```
-@article{tabular_scaling,
-  title   = {Predicting Tabular Scaling Exponents via Dataset Geometry and Statistical Descriptors},
-  author  = {Md M. Zaman and A. Zaman and Neha Vinayak},
-  journal = {To be submitted},
-  year    = {2026}
-}
-```
-*(To be updated upon acceptance.)*
 
 ---
 
