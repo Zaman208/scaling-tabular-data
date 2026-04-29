@@ -6,18 +6,12 @@ Code and data for the paper:
 > *to be submitted for review in IEEE ICSIT 2026.*
 
 ---
-\author{
-  \IEEEauthorblockN{Md M. Zaman}
-  \IEEEauthorblockA{\textit{M.Tech, BITS Pilani} \\
-  2025ab05168@wilp.bits-pilani.ac.in}
-  \and
-  \IEEEauthorblockN{A. Zaman}
-  \IEEEauthorblockA{\textit{M.Tech, BITS Pilani} \\
-  2025ab05175@wilp.bits-pilani.ac.in}
-  \and
-  \IEEEauthorblockN{Dr. Neha Vinayak}
-  \IEEEauthorblockA{\textit{Asst. Professor, CSIS, BITS Pilani} \\
-  neha.vinayak@pilani.bits-pilani.ac.in}
+@article{tabular_scaling,
+  title   = {Predicting Tabular Scaling Exponents via Dataset 
+             Geometry and Statistical Descriptors},
+  author  = {Zaman, Md M. and Zaman, A. and Vinayak, Neha},
+  journal = {To be submitted to IEEE ICSIT},
+  year    = {2026}
 }
 
 ## Overview
