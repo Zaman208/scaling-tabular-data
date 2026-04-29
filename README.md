@@ -6,8 +6,14 @@ Code and data for the paper:
 > *to be submitted for review in IEEE ICSIT 2026.*
 
 ---
-Authors
-NameRoleAffiliationEmailMd M. ZamanFirst AuthorM.Tech, BITS Pilani2025ab05168@wilp.bits-pilani.ac.inA. ZamanCo-AuthorM.Tech, BITS Pilani2025ab05175@wilp.bits-pilani.ac.inDr. Neha VinayakSupervisorAsst. Professor, CSIS, BITS Pilanineha.vinayak@pilani.bits-pilani.ac.in
+## Authors
+
+| Name | Role | Affiliation | Email |
+|---|---|---|---|
+| Md M. Zaman | First Author | M.Tech, BITS Pilani | 2025ab05168@wilp.bits-pilani.ac.in |
+| A. Zaman | Co-Author | M.Tech, BITS Pilani | 2025ab05175@wilp.bits-pilani.ac.in |
+| Dr. Neha Vinayak | Supervisor | Asst. Professor, CSIS, BITS Pilani | neha.vinayak@pilani.bits-pilani.ac.in |
+
 
 ## Overview
 
