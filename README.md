@@ -1,4 +1,4 @@
-# scaling-tabular-data : Predicting Tabular Scaling Exponents via Dataset Geometry and Statistical Descriptors
+# Predicting Tabular Scaling Exponents via Dataset Geometry and Statistical Descriptors
 
 Code and data for the paper:  
 **"Why Some Tabular Datasets Scale Better Than Others"**
