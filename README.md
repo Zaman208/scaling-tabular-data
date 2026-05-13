@@ -3,7 +3,7 @@
 Code and data for the paper:  
 **"Why Some Tabular Datasets Scale Better Than Others"**
 
-> *to be submitted for review in IEEE ICSIT 2026.*
+> *submitted for review in IEEE ICSIT 2026.*
 
 ---
 ## Authors
